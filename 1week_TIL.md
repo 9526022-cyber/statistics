@@ -5,9 +5,9 @@
 ---
 ## 정규분포
 - 정규분포는 흔히 가우스분포라고도 불린다.
-- <img width="763" height="438" alt="image" src="https://github.com/user-attachments/assets/995857b8-6121-4b1d-b669-d5fdbc0820c5" />
+ <img width="763" height="438" alt="image" src="https://github.com/user-attachments/assets/995857b8-6121-4b1d-b669-d5fdbc0820c5" />
 ▲ 평균 μ=70, 표준편차 σ=10인 정규분포
-- <img width="334" height="89" alt="image" src="https://github.com/user-attachments/assets/bb163b67-a334-4c9e-8255-b49e28860370" />
+ <img width="334" height="89" alt="image" src="https://github.com/user-attachments/assets/bb163b67-a334-4c9e-8255-b49e28860370" />
 ▲	정규분포의 확률밀도 함수
  - 평균 μ, 표준편차 σ라는 2개의 파라미터만 존재
 - 표준정규분포: 평균 μ=0, 표준편차 σ=1인 정규분포
@@ -22,5 +22,5 @@
 - 이러한 특징과 성질은 μ나σ의 값이 달라져도 변하지 않음
 ---
 ## 표준화
--<img width="136" height="81" alt="image" src="https://github.com/user-attachments/assets/cbfced36-799e-4c7a-9a34-c117576c2654" />
+<img width="136" height="81" alt="image" src="https://github.com/user-attachments/assets/cbfced36-799e-4c7a-9a34-c117576c2654" />
 -위와 같이 계산하여 데이터의 평균을 0, 표준편차를 1로 변환하는 것을 ‘ 표준화’라고 한다. Z는 평균과의 거리가 표준편차의 몇 배인가를 나타낸다 즉, 본래의 μ나 σ와 상관없이 본래 값 자체가 아닌 분포 안에서의 위치로 평가할 수 있게 된다.
