@@ -6,9 +6,9 @@
 ## 정규분포
 - 정규분포는 흔히 가우스분포라고도 불린다.
  <img width="763" height="438" alt="image" src="https://github.com/user-attachments/assets/995857b8-6121-4b1d-b669-d5fdbc0820c5" />
-▲ 평균 μ=70, 표준편차 σ=10인 정규분포
+- ▲ 평균 μ=70, 표준편차 σ=10인 정규분포
  <img width="334" height="89" alt="image" src="https://github.com/user-attachments/assets/bb163b67-a334-4c9e-8255-b49e28860370" />
-▲	정규분포의 확률밀도 함수
+- ▲	정규분포의 확률밀도 함수
  - 평균 μ, 표준편차 σ라는 2개의 파라미터만 존재
 - 표준정규분포: 평균 μ=0, 표준편차 σ=1인 정규분포
 - 정규분포의 특징
